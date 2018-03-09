@@ -1,0 +1,51 @@
+{
+    "schools": [
+        {
+            "name": "E.E. Maria Freire",
+            "city": "Santos",
+            "students": [
+                {
+                    "name": "Jose Padilha",
+                    "age": 16,
+                    "maximum_grade": 9.2
+                },
+                {
+                    "name": "Marcos Silva",
+                    "age": 16,
+                    "maximum_grade": 7
+                },
+                {
+                    "name": "Andreia Silva",
+                    "age": 15,
+                    "maximum_grade": 10
+                },
+                {
+                    "name": "Maria Danubio",
+                    "age": 17,
+                    "maximum_grade": 3
+                }
+            ]
+        },
+        {
+            "name": "E.E. Pedro Primeiro Freire",
+            "city": "São Paulo",
+            "students": [
+                {
+                    "name": "Claudia Pontes",
+                    "age": 16,
+                    "maximum_grade": 4.2
+                },
+                {
+                    "name": "João Silva",
+                    "age": 14,
+                    "maximum_grade": 7
+                },
+                {
+                    "name": "Pedro Junior",
+                    "age": 16,
+                    "maximum_grade": 6.5
+                }
+            ]
+        }
+    ]
+}
